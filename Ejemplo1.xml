@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\Betzy\OneDrive\Documentos\SERVICIO\Practica5-A170112\ejemplo1.xsl"?>
+<perros>
+ <perro>
+  <nombre>Skyper</nombre>
+  <raza>Maltes con chihuahua</raza>
+ </perro>
+ <perro>
+  <nombre>Jhoe</nombre>
+  <raza>Maltes</raza>
+ </perro>
+ <perro>
+  <nombre>Firulais</nombre>
+  <raza>Chihuahua</raza>
+ </perro>
+</perros>
